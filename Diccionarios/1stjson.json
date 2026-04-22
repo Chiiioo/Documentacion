@@ -1,0 +1,12 @@
+{
+  "nombre": "Ana García",
+  "edad": 28,
+  "casada": false,
+  "hijos": null,
+  "hobbies": ["leer", "nadar", "programar"],
+  "direccion": {
+    "calle": "Av. Principal 123",
+    "ciudad": "Madrid"
+  },
+  "puntuacion": 9.5
+}
